@@ -1,3 +1,2 @@
-hello git hub:wq
-:wq
+hello git hub
 
